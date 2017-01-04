@@ -1,4 +1,4 @@
-Download the videos from Youtube in batch.
+Download the videos from YouTube in batch.
 
 Extract the classroom behaviors video.
 
